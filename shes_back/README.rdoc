@@ -1,5 +1,7 @@
 == README
 
+Ill be a better person, and that was because of you
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
