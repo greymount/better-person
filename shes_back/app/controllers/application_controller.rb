@@ -6,4 +6,8 @@ class ApplicationController < ActionController::Base
   def hello
   render html: "Hello widya"
   end
+  
+  def bye
+  render html: "i'll be there"
+  end
 end
